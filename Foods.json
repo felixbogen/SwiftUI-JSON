@@ -1,0 +1,16 @@
+[
+  {
+    "id": 1,
+    "name": "Burger",
+    "author": "Felix Bogen",
+    "Image": "example.com",
+    "type": "Dinner"
+  },
+  {
+    "id": 1,
+    "name": "Panacake",
+    "author": "Felix Bogen",
+    "Image": "example.com",
+    "type": "Dinner"
+  }
+]
